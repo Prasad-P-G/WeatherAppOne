@@ -146,8 +146,10 @@ body{
     border: none;
     border-radius: 20px;
     padding: 1em;
-    color: var(--grey-1);
-    font-size: 0.8em;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    font-kerning: var(--shadow-dark);
     text-align: center;
 }
 
